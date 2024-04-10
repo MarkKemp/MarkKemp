@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MarkKemp
 - 👀 I’m interested in almost alles
 - 🌱 I’m currently learning make use of passkeys
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on dont know yet
+- 📫 How to reach me not yet clear about
+- 😄 Pronouns: he/she/her/hem
+- ⚡ Fun fact: pfff
 
 <!---
 MarkKemp/MarkKemp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
